@@ -1,0 +1,962 @@
+    <!-- 91³èÎïÐ¡¾«Áé¹¥ÂÔ / 91³èÎïÐ¡¾«Áé¹¥ÂÔ -->
+    <item component="ComponentInfo{com.shouyou.gonglue.cwxjl/com.bodong.mobilegame.MainActivity}" drawable="ccat" />
+    <!-- ŒšØ´óyôY / ŒšØ´óyôY -->
+    <item component="ComponentInfo{sun.moon.microwave.jiweo/sun.moon.microwave.jiweo.AppEntry}" drawable="ccat" />
+    <!-- ±¦±´´óÃ°ÏÕ / ±¦±´´óÃ°ÏÕ -->
+    <item component="ComponentInfo{com.kgame.bbdmxx.yyh/com.istorm.integrate.sdk.BFYiJieSplashActivity}" drawable="ccat" />
+    <!-- ±¦±´ÁªÃË / ±¦±´ÁªÃË -->
+    <item component="ComponentInfo{com.af.ec.qihu/com.af.ec.qihu.Ec}" drawable="ccat" />
+    <!-- ±¦±´ÁªÃË / ±¦±´ÁªÃË -->
+    <item component="ComponentInfo{com.af.ec.uc/com.af.ec.uc.Ec}" drawable="ccat" />
+    <!-- ±¦±´ÁªÃË2 / ±¦±´ÁªÃË2 -->
+    <item component="ComponentInfo{com.bblm2.jiahe.huawei/com.boyi.bgo.QuickSplashActivity}" drawable="ccat" />
+    <!-- ±¦±´ÁªÃË2 / ±¦±´ÁªÃË2 -->
+    <item component="ComponentInfo{com.bblm2.jiahe.guopan/com.boyi.bgo.QuickSplashActivity}" drawable="ccat" />
+    <!-- ±¦±´ÐÇÇò / ±¦±´ÐÇÇò -->
+    <item component="ComponentInfo{com.hotgame.hd.pocket.huawei/com.hotgame.hd.pocket.huawei.MainActivity}" drawable="ccat" />
+    <!-- ±¦±´ÐÇÇò / ±¦±´ÐÇÇò -->
+    <item component="ComponentInfo{com.kaopu.bbxq.baidu/com.hotgame.core.MainContext}" drawable="ccat" />
+    <!-- ±¦±´ÐÇÇò / ±¦±´ÐÇÇò -->
+    <item component="ComponentInfo{com.tencent.tmgp.kaopu.bbxq/com.hotgame.core.MainContext}" drawable="ccat" />
+    <!-- ±¦±´ÐÇÇò / ±¦±´ÐÇÇò -->
+    <item component="ComponentInfo{com.kaopu.bbxq.guopan/com.kaopu.splash.splashActivity}" drawable="ccat" />
+    <!-- ±¦¿ÉÃÈÁªÃË / ±¦¿ÉÃÈÁªÃË -->
+    <item component="ComponentInfo{com.ly.bkmlm.guopan/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- Œš¿ÉÃÈŒWˆ@ / Œš¿ÉÃÈŒWˆ@ -->
+    <item component="ComponentInfo{com.morefun.pokemon/com.example.testrun.MainActivity}" drawable="ccat" />
+    <!-- ±©×ßÆ¤¿¨Çð / ±©×ßÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.iuugame.xjl2ol.baidu/com.iuugame.xjl2ol.baidu.WelcomeActivity}" drawable="ccat" />
+    <!-- ±©×ßÆ¤¿¨Çð / ±©×ßÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.iuugame.xjl2ol.uc/com.iuugame.xjl2ol.uc.MainActivity}" drawable="ccat" />
+    <!-- ±ðÅÜ¾«Áé / ±ðÅÜ¾«Áé -->
+    <item component="ComponentInfo{com.wx.allzz.huawei/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ±ðÅÜ¾«Áé / ±ðÅÜ¾«Áé -->
+    <item component="ComponentInfo{com.wx.bpjl.guopan/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Bulu Monster / Bulu Monster -->
+    <item component="ComponentInfo{com.sigmagame.imonster/com.sigmagame.imonster.MainActivity}" drawable="ccat" />
+    <!-- ³¬¼¶¾«Áé / ³¬¼¶¾«Áé -->
+    <item component="ComponentInfo{com.cjjl.iuugame360/com.cjjl.iuugame360.MainActivity}" drawable="ccat" />
+    <!-- ³¬¼¶¾«Áé / ³¬¼¶¾«Áé -->
+    <item component="ComponentInfo{com.cjjl.iuugame.uc/com.cjjl.iuugame.uc.MainActivity}" drawable="ccat" />
+    <!-- ³¬¼¶¾«ÁéÇò / ³¬¼¶¾«ÁéÇò -->
+    <item component="ComponentInfo{com.kgame.cjjlq.yyh/com.istorm.integrate.sdk.BFYiJieSplashActivity}" drawable="ccat" />
+    <!-- ³¬¼¶¾«ÁéÇò / ³¬¼¶¾«ÁéÇò -->
+    <item component="ComponentInfo{tvst.geic.uoi.law.tfx/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ³¬ÃÎÐÐ¶¯ / ³¬ÃÎÐÐ¶¯ -->
+    <item component="ComponentInfo{com.cmxd.cgamex.xuanwan/com.yueyou.common.ProjectMBSplash}" drawable="ccat" />
+    <!-- ³¬ÃÎÐÐ¶¯ / ³¬ÃÎÐÐ¶¯ -->
+    <item component="ComponentInfo{com.cmxd.cgamex.bazhang/com.cgamex.usdk.api.SplashActivity}" drawable="ccat" />
+    <!-- ³¬¼¶Ð¡¾«ÁéOL / ³¬¼¶Ð¡¾«ÁéOL -->
+    <item component="ComponentInfo{com.cltd.cjxjl.huawei/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³¬¼¶Ð¡¾«ÁéOL / ³¬¼¶Ð¡¾«ÁéOL -->
+    <item component="ComponentInfo{com.cltd.cjxjl.m4399/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎï´óÂÒ¶· / ³èÎï´óÂÒ¶· -->
+    <item component="ComponentInfo{com.kaopu.cwdld.guopan/com.kaopu.splash.splashActivity}" drawable="ccat" />
+    <!-- ³èÎï·×Õù / ³èÎï·×Õù -->
+    <item component="ComponentInfo{com.youdong.guaji_pok_cwfz.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ³èÎï¾«Áé / null -->
+    <item component="ComponentInfo{com.h5game.chongwujingling/com.test.h5demo.WebActivity}" drawable="ccat" />
+    <!-- ³èÎï¾«ÁéÎïÓï / ³èÎï¾«ÁéÎïÓï -->
+    <item component="ComponentInfo{com.game2d.huntervv.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úµ¥»ú°æ / ³èÎïÍõ¹úµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.petk.uc/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úµ¥»ú°æ / ³èÎïÍõ¹úµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.petk.m4399/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úµ¥»ú°æ / ³èÎïÍõ¹úµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.petk.m4399/com.cx.again.MainActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úµ¥»ú°æ / ³èÎïÍõ¹úµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.petk.huawei/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úÍâ´« / ³èÎïÍõ¹úÍâ´« -->
+    <item component="ComponentInfo{com.zzlt.pet2.dangle/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎïÍõ¹úÍâ´« / ³èÎïÍõ¹úÍâ´« -->
+    <item component="ComponentInfo{com.zzlt.pet2.m4399/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{net.crimoon.pm.cwxjl/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{net.crimoon.pm.fg.cwxjl/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / XY -->
+    <item component="ComponentInfo{com.yxorange.cwxjl.guopan/cn.diandian.kdyg.SplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / XY -->
+    <item component="ComponentInfo{com.yxorange.cwxjl.xw/cn.diandian.kdyg.SplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.junhai.cwxjl.cgamex.xuanwan/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.junhai.cwxjl.cgamex.bazhang/com.cgamex.usdk.api.SplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«ÁéÂúV°æ -->
+    <item component="ComponentInfo{com.heitao.cwxjl.xuanwanbt/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«ÁéÂúV°æ -->
+    <item component="ComponentInfo{com.heitao.cwxjl.bazhang/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«ÁéÂúV°æ -->
+    <item component="ComponentInfo{com.heitao.cwxjl.guopan/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.cwxjl/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.BD/com.duole.game.SDKActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.dj/com.duole.koudai.dj.KouDai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.hw/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.pps/com.duole.koudai.pps.KouDai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.m4399/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.qihoo/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.guopan/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.shoumeng/com.duole.koudai.shoumeng.KouDai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.uc/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.yyh/com.duole.koudai.yyh.KouDai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.zhiyou/com.hg.game.HGMainActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.pokemon.wdj/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.huawei/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé / ³èÎïÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.duole.koudai.dj/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé-BT¿Ú´ü°æ / ³èÎïÐ¡¾«Áé-BT¿Ú´ü°æ -->
+    <item component="ComponentInfo{com.duole.koudai.aligames/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé¶À¼Ò¹¥ÂÔ / ³èÎïÐ¡¾«Áé¶À¼Ò¹¥ÂÔ -->
+    <item component="ComponentInfo{std.kb.app.module.cwxjl/stb.kb.fds.GameHomeActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé¸´¿Ì / ³èÎïÐ¡¾«Áé¸´¿Ì -->
+    <item component="ComponentInfo{com.cwxjlfk.huawei/com.cwxjlfk.huawei.AppEntry}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé¸´¿Ì / ³èÎïÐ¡¾«Áé¸´¿Ì -->
+    <item component="ComponentInfo{com.tencent.tmgp.cwxjlfkk/com.tencent.tmgp.cwxjlfkk.AppEntry}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéGO / ³èÎïÐ¡¾«ÁéGO -->
+    <item component="ComponentInfo{com.cwxjl.sdk185/com.duole.game.SDKKoudai}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéGo / ³èÎïÐ¡¾«ÁéGo -->
+    <item component="ComponentInfo{com.tencent.tmgp.jlmbb/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé¹¥ÂÔ / ³èÎïÐ¡¾«Áé¹¥ÂÔ -->
+    <item component="ComponentInfo{com.xunyou.cwxjl/com.xyou.gamestrategy.activity.StartUpActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«Áé¹Ò»ú°æ / ³èÎïÐ¡¾«Áé¹Ò»ú°æ -->
+    <item component="ComponentInfo{com.zs.cwxjlgj.uc/com.zs.cwxjlgj.uc.MainActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéÍêÃÀ¹¥ÂÔ / ³èÎïÐ¡¾«ÁéÍêÃÀ¹¥ÂÔ -->
+    <item component="ComponentInfo{com.gl.cwxjl.gamestrategy/com.appstore.gamestrategy.GSMainActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / Pocket Demon XY -->
+    <item component="ComponentInfo{cn.diandian.kdyg.uc/cn.diandian.kdyg.uc.startup}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / Pocket Demon XY -->
+    <item component="ComponentInfo{com.pokemon.guopan/com.snowfish.cn.ganga.helper.MySplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / Pocket Demon XY -->
+    <item component="ComponentInfo{com.cwxjlxy.guopan/com.snowfish.cn.ganga.helper.MySplashActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / XY -->
+    <item component="ComponentInfo{com.game456.cwxjlxy.bazhang/com.vqs456.sdk.WelcomeActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / XY -->
+    <item component="ComponentInfo{com.game456.cwxjlxy.guopan/com.vqs456.sdk.WelcomeActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXY / ³èÎïÐ¡¾«ÁéXY -->
+    <item component="ComponentInfo{com.pokemon.qihoo/com.pokemon.qihoo.startup}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXYÀñ°üºÅ / ³èÎïÐ¡¾«ÁéXYÀñ°üºÅ -->
+    <item component="ComponentInfo{com.cwxjllbh/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéXYÖúÊÖ / ³èÎïÐ¡¾«ÁéXYÖúÊÖ -->
+    <item component="ComponentInfo{com.gangyou.cwxjlxyzs/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ³èÎïÐ¡¾«ÁéÖ®ÐÝÏÐµº / ³èÎïÐ¡¾«ÁéÖ®ÐÝÏÐµº -->
+    <item component="ComponentInfo{com.njtd.xxd.egamemod/com.example.StatisticsActivity}" drawable="ccat" />
+    <!-- ³èÎïÑµÁ·Ê¦ / ³èÎïÑµÁ·Ê¦ -->
+    <item component="ComponentInfo{com.qingame.genius.cgbt.cgamex.xuanwan/com.qingame.genius.cgbt.cgamex.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- CutieMonstersTowerDefense2 / CutieMonstersTowerDefense2 -->
+    <item component="ComponentInfo{com.playspirit.cutiemonsters2/org.cocos2dx.cpp.AppActivity}" drawable="ccat" />
+    <!-- Dynamons World / null -->
+    <item component="ComponentInfo{com.funtomic.dynamons3/com.funtomic.dynamons3.MainActivity}" drawable="ccat" />
+    <!-- Funtomic Ads SDK / null -->
+    <item component="ComponentInfo{com.funtomic.dynamons3/com.cx.again.MainActivity}" drawable="ccat" />
+    <!-- EvoCreo / EvoCreo -->
+    <item component="ComponentInfo{ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher}" drawable="ccat" />
+    <!-- EvoCreo / EvoCreo -->
+    <item component="ComponentInfo{ilmfinity.evocreo.main.android/com.example.StatisticsActivity}" drawable="ccat" />
+    <!-- EvoCreo / EvoCreo -->
+    <item component="ComponentInfo{ilmfinity.evocreo.main.android/com.inject.InjectActivity}" drawable="ccat" />
+    <!-- ·è¿ñ±È¿¨ÇðBT / ·è¿ñ±È¿¨ÇðBT -->
+    <item component="ComponentInfo{com.qytxgame.qy.guopan/com.yueyou.common.ProjectMBSplash}" drawable="ccat" />
+    <!-- GBA¿Ú´üÑý¹Ö / GBA¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.funnyhux.myguardian.wdj/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- GBA¿Ú´üÑý¹Ö / GBA¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.funnyhux.myguardian.yyh/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹Ò¸öÆ¤¿¨Çð / ¹Ò¸öÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.youdong.guaji_pok.wdj/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹Ò¸öÆ¤¿¨Çð / ¹Ò¸öÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.youdong.guaji_pokemon_ggpkq.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹ÖÎïxÁªÃË2 / null -->
+    <item component="ComponentInfo{com.joygames.gwxlm.qihoo/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹ÖÎïxÁªÃË2 / null -->
+    <item component="ComponentInfo{com.tencent.tmgp.gwxlm2/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹ÖÎïxÁªÃË2 / null -->
+    <item component="ComponentInfo{com.joygames.gwxlm.m4399/com.joygames.mixsdk.SplashActivity}" drawable="ccat" />
+    <!-- ¹ÖÎïxÁªÃË2 / null -->
+    <item component="ComponentInfo{com.joygames.gwxlm.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¹Ò»ú°ÉÐ¡¾«Áé / ¹Ò»ú°ÉÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.xpet/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¹Ò»ú°ÉÐ¡¾«Áé / ¹Ò»ú°ÉÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.xpet.uc.aligames/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¹Ò»ú°ÉÐ¡¾«Áé / ¹Ò»ú°ÉÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.xpet.huawei/org.cocos2dx.javascript.LeguSplashActivity}" drawable="ccat" />
+    <!-- ¹Ò»ú°ÉÐ¡¾«Áé / ¹Ò»ú°ÉÐ¡¾«Áé -->
+    <item component="ComponentInfo{youxi.wr.xpet.guopan/org.cocos2dx.javascript.LeguSplashActivity}" drawable="ccat" />
+    <!-- ¹Ò»úÆ¤¿¨Çð / ¹Ò»úÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.hhw.gj.pkq.uc/com.hhw.gj.pkq.uc.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- ¹þà¶Æ¤¿¨Çð / ¹þà¶Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zhizhensat.pokemon.baiduyidong/com.zhizhensat.pokemon.platform.PlatformSDKActivity}" drawable="ccat" />
+    <!-- ºÃ¶à¾«Áé / ºÃ¶à¾«Áé -->
+    <item component="ComponentInfo{com.youxihui.hdjl.guopan/com.duole.game.SplashActivity}" drawable="ccat" />
+    <!-- »ÃÏë¾«Áé / MobageAlliance_mobage -->
+    <item component="ComponentInfo{cn.mobage.g13000204/cn.mobage.g13000204.Pet}" drawable="ccat" />
+    <!-- »ÃÏë¾«Áé / »ÃÏë¾«Áé -->
+    <item component="ComponentInfo{com.cmcc.pet/cn.cmgame.billing.ui.GameOpenActivity}" drawable="ccat" />
+    <!-- ¾«Áé±¦¿ÉÃÎ / ¾«Áé±¦¿ÉÃÎ -->
+    <item component="ComponentInfo{com.yl.jlbkm.cyqq.guopan/com.snow.cn.sdk.SplashActivity}" drawable="ccat" />
+    <!-- ¾«Áé½ø»¯ / ¾«Áé½ø»¯ -->
+    <item component="ComponentInfo{com.sy.pkq.yyh/com.moqikaka.sdk.MQActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.yyh/com.flamingo.sdk.yyh.YYHSplashActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.huawei/org.cocos2dx.lua.GameSplashActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.tencent.tmgp.jljjjh/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.aligames/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.m4399/com.flamingo.sdk.splash.ThirdSDKSplashActivity}" drawable="ccat" />
+    <!-- ¾«Áé¾¿¼«½ø»¯ / ¾«Áé¾¿¼«½ø»¯ -->
+    <item component="ComponentInfo{com.acingame.jljjjh.guopan/org.cocos2dx.lua.GameSplashActivity}" drawable="ccat" />
+    <!-- ¾«Áé¼ÍÔª / ¾«Áé¼ÍÔª -->
+    <item component="ComponentInfo{com.hongguan.jljy.aligames/org.cocos2dx.javascript.AppActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÀ´Ï® / ¾«ÁéÀ´Ï® -->
+    <item component="ComponentInfo{com.tencent.tmgp.ddkdygNS/com.tencent.tmgp.ddkdygNS.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÀ´Ï® / ¾«ÁéÀ´Ï® -->
+    <item component="ComponentInfo{com.ddgames.NSGame.m4399/com.ddtech.yj.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÁÔÈË / ¾«ÁéÁÔÈË -->
+    <item component="ComponentInfo{com.anzhuojllr.ckhd.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÃÈ±¦±´ / ¾«ÁéÃÈ±¦±´ -->
+    <item component="ComponentInfo{com.jlmbb.aligames/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÃÈ±¦±´ / ¾«ÁéÃÈ±¦±´ -->
+    <item component="ComponentInfo{com.jjmbb.guopan/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÃÈ±¦±´ / ¾«ÁéÃÈ±¦±´ -->
+    <item component="ComponentInfo{com.bbdmx.hwtv.huawei/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÃÈ±¦±´ / ¾«ÁéÃÈ±¦±´ -->
+    <item component="ComponentInfo{com.tencent.tmgp.jlmbbqt/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÃÈ±¦±´ / ¾«ÁéÃÈ±¦±´ -->
+    <item component="ComponentInfo{com.jjmbb.dl/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÓëÄ§·¨ / ¾«ÁéÓëÄ§·¨ -->
+    <item component="ComponentInfo{com.windplay.bl.jlymf.qihoosdk/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÕ½¸è / ¾«ÁéÕ½¸è -->
+    <item component="ComponentInfo{com.miyi.PlantsWar/com.miyi.PlantsWar.GameActivity}" drawable="ccat" />
+    <!-- ¾«ÁéÖ®³¬ÃÎÀ´Ï® / ¾«ÁéÖ®³¬ÃÎÀ´Ï® -->
+    <item component="ComponentInfo{com.kdyg.mega.hongyou.cgamex.hy.guopan/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¾«Áé×Ü¶¯Ô± / ¾«Áé×Ü¶¯Ô± -->
+    <item component="ComponentInfo{com.tencent.tmgp.jlzdy/yh.YHSuperSDKActivity}" drawable="ccat" />
+    <!-- ¾«Áé×Ü¶¯Ô± / ¾«Áé×Ü¶¯Ô± -->
+    <item component="ComponentInfo{com.jlzdy.yinghun.m4399/prj.iyinghun.platform.sdk.SplashScreenActivity}" drawable="ccat" />
+    <!-- ¾«Áé×Ü¶¯Ô± / ¾«Áé×Ü¶¯Ô± -->
+    <item component="ComponentInfo{com.jlzdy.yinghun.aligames/prj.iyinghun.platform.sdk.SplashScreenActivity}" drawable="ccat" />
+    <!-- ¾«Áé×Ü¶¯Ô± / ¾«Áé×Ü¶¯Ô± -->
+    <item component="ComponentInfo{com.jlzdy.aiyinghun.hwtv.huawei/prj.iyinghun.platform.sdk.SplashScreenActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.xjl.iuugame.uc/com.xjl.iuugame.uc.MainActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.xjl.iuugame.wdj/com.xjl.iuugame.wdj.MainActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.gjzb.iuugame.yu/com.iuugame.tianyi.MainActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.xjl.iuugame.jh/com.xjl.iuugame.uc.MainActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.xjl.iuugame.qbkq/com.xjl.iuugame.uc.MainActivity}" drawable="ccat" />
+    <!-- ½ø»¯°ÉÆ¤¿¨Çð / ½ø»¯°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.xjl.iuugame.lewan/com.xjl.iuugame.lewan.MainActivity}" drawable="ccat" />
+    <!-- ½ø»÷µÄÉñÆæ±¦±´ / ½ø»÷µÄÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{com.linwei.Attackpokemon/com.android.AndroidNativeBridge}" drawable="ccat" />
+    <!-- ¾¿¼«±¦±´ / ¾¿¼«±¦±´ -->
+    <item component="ComponentInfo{com.zsym.jjbb.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¾öÕ½ÊýÂëÊÞ / ¾öÕ½ÊýÂëÊÞ -->
+    <item component="ComponentInfo{com.jzsms.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü±¦±´÷ÈÓ° / ¿Ú´ü±¦±´÷ÈÓ° -->
+    <item component="ComponentInfo{com.tencent.tmgp.sqjl/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü±¦¿ÉÃÎ / ¿Ú´ü±¦¿ÉÃÎ -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdbkm/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü³¬ÃÈ / ¿Ú´ü³¬ÃÈ -->
+    <item component="ComponentInfo{com.askd.pokemon.huawei/com.example.testrun.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü³¬ÃÈ / ¿Ú´ü³¬ÃÈ -->
+    <item component="ComponentInfo{com.askdzf.pokemon/com.example.testrun.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü³¬ÃÈ / ¿Ú´ü³¬ÃÈ -->
+    <item component="ComponentInfo{com.askd.pokemon.qihoo/com.example.testrun.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü³¬ÃÈ / ¿Ú´ü³¬ÃÈ -->
+    <item component="ComponentInfo{com.askd.pokemon.baidu/com.example.testrun.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü³èÎïÊÀ½ç / ¿Ú´ü³èÎïÊÀ½ç -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdcwsj/com.util.game.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü´óÊ¦ / ¿Ú´ü´óÊ¦ -->
+    <item component="ComponentInfo{com.tanyu.csjl.huawei/org.cocos2dx.cpp.CocosActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü´óÊ¦ / ¿Ú´ü´óÊ¦ -->
+    <item component="ComponentInfo{cn.citypet.uc/org.cocos2dx.cpp.CocosActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¶Ô¾ö / ¿Ú´ü¶Ô¾ö -->
+    <item component="ComponentInfo{com.asdk.pokemontcg.aligames/com.leocool.yugioh.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé / ¿Ú´ü¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdjl/com.friendivity.kdjl.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé / ¿Ú´ü¾«Áé -->
+    <item component="ComponentInfo{com.friendivity.kdjl.uc/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé / ¿Ú´ü¾«Áé -->
+    <item component="ComponentInfo{com.leju.kdjl.downjoy/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé / ¿Ú´ü¾«Áé -->
+    <item component="ComponentInfo{com.leju.kdjl.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«ÁéX / ¿Ú´ü¾«ÁéX -->
+    <item component="ComponentInfo{com.glee.pet.cgamex.xuanwan/com.glee.pet.pet_android}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé / ¿Ú´ü¾«Áé(¶þ´ÎÔª¶¯Âþ) -->
+    <item component="ComponentInfo{com.friendivity.kdjl.qihu/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé±£ÎÀÕ½ / ¿Ú´ü¾«Áé±£ÎÀÕ½ -->
+    <item component="ComponentInfo{com.yiruituo.pika.qqgame/com.yiruituo.pika.qqgame.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«Áé¹Ò»ú°æ / ¿Ú´ü¾«Áé¹Ò»ú°æ -->
+    <item component="ComponentInfo{com.burngame.uc.uc/com.foxgame.legend.platform.PlatformActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«ÁéÍõ / ¿Ú´ü¾«ÁéÍõ -->
+    <item component="ComponentInfo{com.happyallgame.pocketmonster.baidu/com.happyallgame.pocketmonster.GameActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü¾«ÁéÍõ / ¿Ú´ü¾«ÁéÍõ -->
+    <item component="ComponentInfo{com.happyallgame.pocketmonster.uc/com.happyallgame.pocketmonster.uc.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü½ø»¯ / ¿Ú´ü½ø»¯ -->
+    <item component="ComponentInfo{com.u776.kdjh.android.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü½ø»¯ / ¿Ú´ü½ø»¯ -->
+    <item component="ComponentInfo{com.kdjh.qizhi.huawei/com.seacow.u3d.SeacowU3dActivity}" drawable="ccat" />
+    <!-- ¿Ú´ü½ø»¯ÈÕÖ¾ / ¿Ú´ü½ø»¯ÈÕÖ¾ -->
+    <item component="ComponentInfo{com.qile.bzpkq.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.glee.pet.nearme.yyh/com.glee.pet.pet_android}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.glee.pet.andxxzs/com.glee.pet.pet_android}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.fugame.pmgame.aligames/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.fugame.pmgame.huawei/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.tencent.tmgp.fugame.pmgame/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.fugame.pmgame.askd.m4399/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË / ¿Ú´üÁªÃË -->
+    <item component="ComponentInfo{com.fugame.pmgame.guopan/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÁªÃË-¼ÓÇ¿°æ / ¿Ú´üÁªÃË-¼ÓÇ¿°æ -->
+    <item component="ComponentInfo{com.cwxjl.xq.guopan/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÃÈ±¦ÁªÃË / ¿Ú´üÃÈ±¦ÁªÃË -->
+    <item component="ComponentInfo{com.mlyx.kdmblm.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÄæÏ® / ¿Ú´üÄæÏ® -->
+    <item component="ComponentInfo{com.saturngame.kdnx.HUAWEI/com.saturngame.kdnx.HUAWEI.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÆ¤¿¨Çð / ¿Ú´üÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdpikaqiu/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- ¿Ú´üÆ¤¿¨Çð / ¿Ú´üÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.tencent.tmgp.dragonsummon/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÆ¤¿¨Çð / ¿Ú´üÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.yingyou.dragonsummon.uc/com.gamesdk.unity3d.uc.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÐ¡¾«Áé / ¿Ú´üÐ¡¾«Áé -->
+    <item component="ComponentInfo{cn.mobage.g13001092/cn.mobage.g13001092.Pet}" drawable="ccat" />
+    <!-- ¿Ú´üÐ¡¾«Áé / ¿Ú´üÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.cqjd.kdxjl.bd/org.cocos2dx.cpp.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÐ¡¾«Áé / ¿Ú´üÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.cqjd.kdxjl.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÐ¡¾«Áé / ¿Ú´üÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.cqjd.kdxjl.dangle/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑµÁ·Ê¦ / ¿Ú´üÑµÁ·Ê¦ -->
+    <item component="ComponentInfo{com.jbgames.HTGame.huawei/com.jbgames.HTGame.huawei.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üXÑý¹Ö / ¿Ú´üXÑý¹Ö -->
+    <item component="ComponentInfo{com.wanmi.kdXyg.dl/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üxÑý¹Ö / ¿Ú´üxÑý¹Ö -->
+    <item component="ComponentInfo{com.wanmi.kdXyg.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö / ¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.tencent.qzkdyg/com.tencent.sc.activity.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö / ¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.yl.kdyg.guopan/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö-½ø»¯ / ¿Ú´üÑý¹Ö-½ø»¯ -->
+    <item component="ComponentInfo{org.cocos2dx.pokemon.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö£ºÃÈÄï½ø»¯ / ¿Ú´üÑý¹Ö£ºÃÈÄï½ø»¯ -->
+    <item component="ComponentInfo{com.begind.pokemonol.uc/com.Begind.PokemonOL.PokemonOL}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö:ÆðÔ´ / ¿Ú´üÑý¹Ö:ÆðÔ´ -->
+    <item component="ComponentInfo{com.kdyg.mega/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö£ºÓÂÕß´«Ëµ / null -->
+    <item component="ComponentInfo{zhtc.noscores.pmyzhchsh/com.stub.stub01.Stub01}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2 / ¿Ú´üÑý¹Ö2 -->
+    <item component="ComponentInfo{com.hotgame.pocket.baidu/com.hg.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2 / ¿Ú´üÑý¹Ö2 -->
+    <item component="ComponentInfo{com.hotgame.pocket.qihoo/com.hg.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2 / ¿Ú´üÑý¹Ö2 -->
+    <item component="ComponentInfo{com.hotgame.pocket.uc/com.hg.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2 / ¿Ú´üÑý¹Ö2 -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdyg2/com.hg.game.HGMainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2016 / ¿Ú´üÑý¹Ö2016 -->
+    <item component="ComponentInfo{com.zzlt.mpet/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö2016 / ¿Ú´üÑý¹Ö2016 -->
+    <item component="ComponentInfo{com.zzlt.mpet/com.inject.InjectActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.HTGame.uc/com.jbgames.HTGame.uc.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.htgame.yyh/com.jbgames.ht1sdk.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.HTGame.Qihoo/com.jbgames.HTGame.Qihoo.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.htgame.baidu/com.jbgames.htgame.baidu.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.tencent.tmgp.HTGame/com.tencent.tmgp.HTGame.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.htgame.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.htgame.guopan/com.jbgames.ht1sdk.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DS / ¿Ú´üÑý¹Ö3DS -->
+    <item component="ComponentInfo{com.jbgames.htgame.m4399/com.jbgames.ht1sdk.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö3DSÕÛ¿ÛÀñ°ü / ¿Ú´üÑý¹Ö3DSÕÛ¿ÛÀñ°ü -->
+    <item component="ComponentInfo{com.kdyg3zklb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖAR / ¿Ú´üÑý¹ÖAR -->
+    <item component="ComponentInfo{com.morphogame.kdjl.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖBBQ / ¿Ú´üÑý¹ÖBBQ -->
+    <item component="ComponentInfo{air.com.junlas.bbq4399/air.com.junlas.bbq4399.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö³¬½ø»¯ / ¿Ú´üÑý¹Ö³¬½ø»¯ -->
+    <item component="ComponentInfo{com.tencent.tmgp.ymkdygcjh/com.hg.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö³¬½ø»¯ / ¿Ú´üÑý¹Ö³¬½ø»¯ -->
+    <item component="ComponentInfo{com.hotgame.pocket.ymfx.wdj/com.hg.game.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{lgfy.zeeb.kzjg.hwilo/com.excelliance.open.KXQP}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdyg.qihoo/com.excelliance.open.KXQP}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.wdj/com.excelliance.open.KXQP}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.kgame.kdyg.uc/com.saturngame.pm.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdyg.baidu/com.saturngame.pm.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.tencent.tmgp.saturnpm/com.excelliance.open.KXQP}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.yyh/com.saturngame.fantexi.LaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdyg.huawei/com.saturngame.pm.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.wdj/com.istorm.kdygcz.yj.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.dangle/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.m4399/com.istorm.integrate.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ / ¿Ú´üÑý¹ÖÖØÖÆ -->
+    <item component="ComponentInfo{com.istorm.kdygcz.guopan/com.istorm.kdygcz.yj.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆ³É³¤Àñ°ü / ¿Ú´üÑý¹ÖÖØÖÆ³É³¤Àñ°ü -->
+    <item component="ComponentInfo{com.kdygczczlb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆÀñ°ü / ¿Ú´üÑý¹ÖÖØÖÆÀñ°ü -->
+    <item component="ComponentInfo{com.kdygczlb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆÀñ°ü´ïÈË / ¿Ú´üÑý¹ÖÖØÖÆÀñ°ü´ïÈË -->
+    <item component="ComponentInfo{com.kdygczlbdr/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆÀñ°üºÅ / ¿Ú´üÑý¹ÖÖØÖÆÀñ°üºÅ -->
+    <item component="ComponentInfo{com.kdygczlbh/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÖØÖÆÀñ°üÕ¾ / ¿Ú´üÑý¹ÖÖØÖÆÀñ°üÕ¾ -->
+    <item component="ComponentInfo{com.fhl.kdygczlbz/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.qihu360/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.baidu/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.yyh/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.huawei/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.uc/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.dangle/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet/com.qihoo.util.StartActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Öµ¥»ú°æ / ¿Ú´üÑý¹Öµ¥»ú°æ -->
+    <item component="ComponentInfo{com.zzlt.pet.yx4399/com.cx.again.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö´óÊ¦°æ / null -->
+    <item component="ComponentInfo{com.h5game.koudaiyaoguaidashiban/com.test.h5demo.WebActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.Pocketmon.uc/com.Pocketmon.uc.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.wdj/com.pocketmon.wdj.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.tencent.tmgp.pocketmon/com.tencent.tmgp.pocketmon.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.ewan/cn.ewan.supersdk.activity.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.ewan2/cn.ewan.supersdk.activity.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.sy.pkq.miyugame/com.moqikaka.sdk.MQActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.ljapps.p1567.lj123.m4399/com.ljapps.p1567.lj123.m4399.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.guopan/com.pocketmon.guopan.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.yyh/com.pocketmon.yyh.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.Pocketmon.kd/com.Pocketmon.kd.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.ouwanzf/com.pocketmon.ouwanzf.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.ouwxwl/com.pocketmon.ouwxwl.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì / ¿Ú´üÑý¹Ö¸´¿Ì -->
+    <item component="ComponentInfo{com.pocketmon.downjoy/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì¹¥ÂÔ°Ù±¦Ïä / ¿Ú´üÑý¹Ö¸´¿Ì¹¥ÂÔ°Ù±¦Ïä -->
+    <item component="ComponentInfo{cn.bd.magicbox.kdygfkbox/cn.bd.magicbox.LoadingActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿Ì¹¥ÂÔÖúÊÖ / ¿Ú´üÑý¹Ö¸´¿Ì¹¥ÂÔÖúÊÖ -->
+    <item component="ComponentInfo{cn.bd.magicbox.kdygfkgl/cn.bd.magicbox.LoadingActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿ÌÀñ°ü / ¿Ú´üÑý¹Ö¸´¿ÌÀñ°ü -->
+    <item component="ComponentInfo{com.kdygfk/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿ÌÀñ°üºÅ / ¿Ú´üÑý¹Ö¸´¿ÌÀñ°üºÅ -->
+    <item component="ComponentInfo{com.kdygfklbzs/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¸´¿ÌÖúÊÖ / null -->
+    <item component="ComponentInfo{kdygfk.kkp.zs/com.kkp.gameguider.activity.StartPageActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA / ¿Ú´üÑý¹ÖGBA -->
+    <item component="ComponentInfo{com.funnyhux.pokemon.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿Ì / ¿Ú´üÑý¹ÖGBA¸´¿Ì -->
+    <item component="ComponentInfo{com.junhai.kdyg.v5.uc/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿Ì / ¿Ú´üÑý¹ÖGBA¸´¿Ì -->
+    <item component="ComponentInfo{com.junhai.kdyg.v5.qihu/com.qihoo.util.StartActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿Ì / ¿Ú´üÑý¹ÖGBA¸´¿Ì -->
+    <item component="ComponentInfo{com.junhai.kdyg.v5.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿Ì / ¿Ú´üÑý¹ÖGBA¸´¿Ì -->
+    <item component="ComponentInfo{com.junhai.kdyg.v5.huawei/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿Ì / ¿Ú´üÑý¹ÖGBA¸´¿Ì -->
+    <item component="ComponentInfo{com.junhai.kdyg.v5.dangle/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿ÌÀñ°ü / ¿Ú´üÑý¹ÖGBA¸´¿ÌÀñ°ü -->
+    <item component="ComponentInfo{com.kdyggbafklb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖGBA¸´¿ÌÊÖÓÎÀñ°ü / ¿Ú´üÑý¹ÖGBA¸´¿ÌÊÖÓÎÀñ°ü -->
+    <item component="ComponentInfo{com.kdyggbasylb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö½ðÊÖÖ¸ / ¿Ú´üÑý¹Ö½ðÊÖÖ¸ -->
+    <item component="ComponentInfo{org.egret.launcher.h5pkmmicandroid.gp_baidu_andr.guopan/com.flamingo.pkm.LoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¾ö¶· / ¿Ú´üÑý¹Ö¾ö¶· -->
+    <item component="ComponentInfo{com.saturngame.kdjd.aligames/com.saturngame.kdjd.aligames.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö£º¾ö¶·-ÂúV°æ / ¿Ú´üÑý¹Ö£º¾ö¶·-ÂúV°æ -->
+    <item component="ComponentInfo{com.falulu.xc.kdygjdmaxv.cgamex.xuanwan/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö£º¾ö¶·-ÂúV°æ / ¿Ú´üÑý¹Ö£º¾ö¶·-ÂúV°æ -->
+    <item component="ComponentInfo{com.falulu.xc.kdygjdmaxv.cgamex.bazhang/com.cgamex.usdk.api.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.fugame.pmgame.askd.baidu/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.yueyugame.kdyglm.qihu/com.yueyugame.kdyglm.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.yueyugame.kdyglm.uc/com.yueyugame.kdyglm.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.yueyugame.kdyglm.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.yueyugame.kdyglm.baidu/com.yueyugame.kdyglm.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdyglm2017/com.yueyugame.kdyglm.GameActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÁªÃË / ¿Ú´üÑý¹ÖÁªÃË -->
+    <item component="ComponentInfo{com.yueyugame.kdyglm.baidu/com.yueyugame.kdyglm.WelcomeActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÄæÏ® / ¿Ú´üÄæÏ® -->
+    <item component="ComponentInfo{com.saturngame.kdnx.m4399/com.saturngame.kdnx.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÄæÏ® / ¿Ú´üÑý¹ÖÄæÏ® -->
+    <item component="ComponentInfo{com.saturngame.kdnx.aligames/com.saturngame.kdnx.aligames.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÄæÏ® / ¿Ú´üÑý¹ÖÄæÏ® -->
+    <item component="ComponentInfo{com.saturngame.kdnx.baidu/com.saturngame.kdnx.baidu.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÄæÏ® / ¿Ú´üÑý¹ÖÄæÏ® -->
+    <item component="ComponentInfo{com.saturngame.kdnx.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖNS / ¿Ú´üÑý¹ÖNS -->
+    <item component="ComponentInfo{com.ddtech.ns.guopan/com.ddtech.yj.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖNS / ¿Ú´üÑý¹ÖNS -->
+    <item component="ComponentInfo{com.ddtech.ns.guopan/com.ddtech.ns.guopan.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖNS / ¾«ÁéÀ´Ï® -->
+    <item component="ComponentInfo{com.ddgames.NSGame.huawei/com.ddgames.NSGame.huawei.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖNS / ¿Ú´üÑý¹ÖNS -->
+    <item component="ComponentInfo{com.koudaiyaoguaiNS.aligames/com.koudaiyaoguaiNS.aligames.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{sfm.bko.cbyia.qwgcw/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.aligames/com.saturngame.pm2.aligames.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.baidu/com.saturngame.pm2.baidu.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdry/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.qmdy.yyh/com.saturngame.pm2.qmdy.yyh.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÑý¹ÖÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÈÕÔÂ -->
+    <item component="ComponentInfo{com.hsh.kdry.qihoo/com.hsh.kdry.qihoo.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÈÕÔÂ / ¿Ú´üÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.m4399/com.saturngame.pm2.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ / ¿Ú´üÈÕÔÂ -->
+    <item component="ComponentInfo{com.saturngame.pm2.HUAWEI/com.saturngame.pm2.HUAWEI.LauncherActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂ¸£Àû / ¿Ú´üÑý¹ÖÈÕÔÂ¸£Àû -->
+    <item component="ComponentInfo{com.kdygryfl/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂÀñ°ü / ¿Ú´üÑý¹ÖÈÕÔÂÀñ°ü -->
+    <item component="ComponentInfo{com.kdygrylb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÈÕÔÂÀñ°üÂë / ¿Ú´üÑý¹ÖÈÕÔÂÀñ°üÂë -->
+    <item component="ComponentInfo{com.kdygrylbm/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÊØÎÀ¾ü / ¿Ú´üÑý¹ÖÊØÎÀ¾ü -->
+    <item component="ComponentInfo{com.yiruituo.td.pika.baidu/com.yiruituo.td.pika.baidu.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÊØÎÀ¾ü / ¿Ú´üÑý¹ÖÊØÎÀ¾ü -->
+    <item component="ComponentInfo{com.yiruituo.td.pika.yyh/com.yiruituo.td.pika.yyh.Towerdefence}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÊØÎÀ¾ü / ¿Ú´üÑý¹ÖÊØÎÀ¾ü -->
+    <item component="ComponentInfo{com.yiruituo.td.pika.yx4399/com.yiruituo.td.pika.yx4399.Towerdefence}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÊØÎÀ¾ü / ¿Ú´üÑý¹ÖÊØÎÀ¾ü -->
+    <item component="ComponentInfo{com.yiruituo.td.pika.egame/com.qihoo.util.StartActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.u776.poke.android.huawei/com.seacow.u3d.SeacowU3dActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.u776.poke.android.m4399/com.seacow.u3d.SeacowU3dActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.u776.poke.android.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.u776.poke.android.downjoy/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.hyCompany.Pokemon.uc/com.seacow.u3d.SeacowU3dActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¾«ÁéÊÀ½ç -->
+    <item component="ComponentInfo{com.tencent.tmgp.kaopu.kdygvs/com.seacow.u3d.SeacowU3dActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¿Ú´üÑý¹ÖVS -->
+    <item component="ComponentInfo{com.shouyou.kdygvs.yyh/com.quicksdk.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVS / ¿Ú´üÑý¹ÖVS -->
+    <item component="ComponentInfo{mff.imvpq.rmb.uhnu/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVSÀñ°ü / ¿Ú´üÑý¹ÖVSÀñ°ü -->
+    <item component="ComponentInfo{com.kkdygvslb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVSÀñ°ü / ¿Ú´üÑý¹ÖVSÀñ°ü -->
+    <item component="ComponentInfo{com.kdygvslb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVSÀñ°üºÅ / ¿Ú´üÑý¹ÖVSÀñ°üºÅ -->
+    <item component="ComponentInfo{com.kdygvslbh/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖVSÀñ°üÖÐÐÄ / ¿Ú´üÑý¹ÖVSÀñ°üÖÐÐÄ -->
+    <item component="ComponentInfo{com.kdygvslbzx/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÍêÃÀ¹¥ÂÔ / ¿Ú´üÑý¹ÖÍêÃÀ¹¥ÂÔ -->
+    <item component="ComponentInfo{com.gl.kdyg.gamestrategy/com.appstore.gamestrategy.GSMainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÒÆ¶¯°æ / ¿Ú´üÑý¹ÖÒÆ¶¯°æ -->
+    <item component="ComponentInfo{com.tencent.tmgp.moongamepkq/com.yueyou.common.ProjectMB}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÒÆ¶¯°æ / ¿Ú´üÑý¹ÖÒÆ¶¯°æ -->
+    <item component="ComponentInfo{com.moongame.pkq.hjr.paojiao/com.inwin8.package.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖÒÆ¶¯°æ / ¿Ú´üÑý¹ÖÒÆ¶¯°æ -->
+    <item component="ComponentInfo{com.moongame.pkq.uc/com.yueyou.common.ProjectMB}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZ / ¿Ú´üÑý¹ÖZ -->
+    <item component="ComponentInfo{com.game.koudaiyaoguaiZ.uc/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZ / ¿Ú´üÑý¹ÖZ -->
+    <item component="ComponentInfo{com.game.kdyaoguaiZ.baidu/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZ / ¿Ú´üÑý¹ÖZ -->
+    <item component="ComponentInfo{com.game.koudaiyaoguaiZ.qihu/com.qihoo.util.StartActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZ / ¿Ú´üÑý¹ÖZ -->
+    <item component="ComponentInfo{com.game.koudaiyaoguaiZ.guopan/org.cocos2dx.lua.SplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZÀñ°ü / ¿Ú´üÑý¹ÖZÀñ°ü -->
+    <item component="ComponentInfo{com.kdygzlb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹ÖZÀñ°üÖÐÐÄ / ¿Ú´üÑý¹ÖZÀñ°üÖÐÐÄ -->
+    <item component="ComponentInfo{com.kdygzlbzx/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¡¤×êÊ¯ / ¿Ú´üÑý¹Ö¡¤×êÊ¯ -->
+    <item component="ComponentInfo{com.kdygzs.guandu/cn.guaji.shenshou.google.MySplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¡¤×êÊ¯ / ¿Ú´üÑý¹Ö¡¤×êÊ¯ -->
+    <item component="ComponentInfo{com.kdygzs.guandu.bazhang/cn.guaji.shenshou.google.MySplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑý¹Ö¡¤×êÊ¯ / ¿Ú´üÑý¹Ö¡¤×êÊ¯ -->
+    <item component="ComponentInfo{com.kdygzs.guopan/cn.guaji.shenshou.google.MySplashActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) / ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) -->
+    <item component="ComponentInfo{com.joyreach.pocketfairy.cmge/com.joyreach.pocketfairy.LogoActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) / ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) -->
+    <item component="ComponentInfo{com.jzgame.kd11.DK/com.joyreach.pocketfairy.LogoActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) / ¿Ú´üÑýÑý(ËÍÆ¤¿¨Çð) -->
+    <item component="ComponentInfo{com.jzgame.kd11.wdj/com.joyreach.pocketfairy.PocketFairyProxyActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÕÙ»½Ê¦ / ¿Ú´üÕÙ»½Ê¦ -->
+    <item component="ComponentInfo{com.amz.pocketsummoner.uc/com.amz.game.AppActivity}" drawable="ccat" />
+    <!-- ¿Ú´üÖ®ÂÃ / ¿Ú´üÖ®ÂÃ -->
+    <item component="ComponentInfo{com.pocketmon.baidu/com.pocketmon.baidu.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÖ®ÂÃ / ¿Ú´üÖ®ÂÃ -->
+    <item component="ComponentInfo{com.pocketmon.huawei/com.pocketmon.huawei.AppEntry}" drawable="ccat" />
+    <!-- ¿Ú´üÖ®ÂÃ / ¿Ú´üÖ®ÂÃ -->
+    <item component="ComponentInfo{com.pocketmon.qihoo/com.pocketmon.qihoo.AppEntry}" drawable="ccat" />
+    <!-- ÃÈ³è´ó±¬Õ¨ / ÃÈ³è´ó±¬Õ¨ -->
+    <item component="ComponentInfo{com.soulgame.animalggboom.tencent/com.supernano.petbigbangdue.LogoActivity}" drawable="ccat" />
+    <!-- ÃÈ³è´ó±¬Õ¨ / ÃÈ³è´ó±¬Õ¨ -->
+    <item component="ComponentInfo{com.soulgame.animalggboom.m4399/com.supernano.petbigbangdue.LogoActivity}" drawable="ccat" />
+    <!-- ÃÈ³è´ó±¬Õ¨ / ÃÈ³è´ó±¬Õ¨ -->
+    <item component="ComponentInfo{com.soulgame.animalggboom.huawei/com.supernano.petbigbangdue.LogoActivity}" drawable="ccat" />
+    <!-- ÃÎ»Ã³èÎïÁªÃË / ÃÎ»Ã³èÎïÁªÃË -->
+    <item component="ComponentInfo{com.lestar.elf.aligames/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÃÎ»Ã³èÎïÁªÃË / ÃÎ»Ã³èÎïÁªÃË -->
+    <item component="ComponentInfo{com.lestar.elf.m4399/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÃÎ»Ã³èÎïÁªÃË / ÃÎ»Ã³èÎïÁªÃË -->
+    <item component="ComponentInfo{com.lestar.elf.huawei/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÃÎ»Ã¹ÖÊÞ / Neo Monsters -->
+    <item component="ComponentInfo{com.pockettrend.neomonsters/com.dbgj.stasdk.activity.StaWelcomeActivity}" drawable="ccat" />
+    <!-- ÃÈÃÈÆ¤¿¨Çð´óÃ°ÏÕ / ÃÈÃÈÆ¤¿¨Çð´óÃ°ÏÕ -->
+    <item component="ComponentInfo{com.mmpkqdmxbetas/com.s1game.pikachusaga.MainActivity}" drawable="ccat" />
+    <!-- ß÷ß÷»ð¼ý¶Ó / ß÷ß÷»ð¼ý¶Ó -->
+    <item component="ComponentInfo{com.mmhjd.miyu.guopan/com.xinyu.cosstar.Venus}" drawable="ccat" />
+    <!-- Ä§±¦ÀÖÔ° / Mobbles -->
+    <item component="ComponentInfo{com.mobblesgames.mobbles/com.mobblesgames.mobbles.SplashActivity}" drawable="ccat" />
+    <!-- Ä§ÁéµÄî¿°í / Ä§ÁéµÄî¿°í -->
+    <item component="ComponentInfo{com.longtongcom.pocketmonster/com.unity3d.player.UnityPlayerProxyActivity}" drawable="ccat" />
+    <!-- Ä§ÁéµÄî¿°í / Ä§ÁéµÄî¿°í -->
+    <item component="ComponentInfo{com.longtongcom.pocketmonster/com.cx.again.MainActivity}" drawable="ccat" />
+    <!-- monster / monster -->
+    <item component="ComponentInfo{com.ziyou.monster.yyh/com.ziyou.monster.yyh.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- ÄÜÁ¿ÆðÔ´ / ÄÜÁ¿ÆðÔ´ -->
+    <item component="ComponentInfo{com.xulong.pokemon.m4399/com.xulong.pokemon.PokemonActivity}" drawable="ccat" />
+    <!-- ÄÜÁ¿ÆðÔ´ / ÄÜÁ¿ÆðÔ´ -->
+    <item component="ComponentInfo{com.xulong.pokemon.pptv.guopan/com.vas.vassdk.VasSdkSplashActivity}" drawable="ccat" />
+    <!-- ÄÜÁ¿ÆðÔ´ / ÄÜÁ¿ÆðÔ´ -->
+    <item component="ComponentInfo{com.xulong.pokemons.huawei/com.xulong.pokemon.PokemonActivity}" drawable="ccat" />
+    <!-- Æ¤Æ¤Æ¤¿¨Çð / Æ¤Æ¤Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.kdyg.yxd8849.a371/com.example.demo.MainActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð2015 / Æ¤¿¨Çð2015 -->
+    <item component="ComponentInfo{com.zjmobile.pokemon.pk/com.zjmobile.pokemon.pk.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð2015 / Æ¤¿¨Çð2015 -->
+    <item component="ComponentInfo{com.zjmobile.pokemon.uc/com.zjmobile.pokemon.uc.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð2015 / Æ¤¿¨Çð2015 -->
+    <item component="ComponentInfo{com.zjmobile.pokemon2015.guopan/com.zjmobile.pokemon2015.guopan.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð2015 / Æ¤¿¨Çð2015 -->
+    <item component="ComponentInfo{com.zjmobile.pokemon2015.muzhi/com.zjmobile.pokemon2015.muzhi.UnityPlayerNativeActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð°®¹Ò»ú / Æ¤¿¨Çð°®¹Ò»ú -->
+    <item component="ComponentInfo{com.feilong.ttpkq.ouwan/com.feilong.ttpkq.ouwan.Pokemon}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð³¬½ø»¯ / Æ¤¿¨Çð³¬½ø»¯ -->
+    <item component="ComponentInfo{com.youdong.guaji_pok_pkqcjh.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð³¬½ø»¯ / Æ¤¿¨Çð³¬½ø»¯ -->
+    <item component="ComponentInfo{com.tencent.tmgp.ydpkqcjh/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨Çð³¬½ø»¯ / Æ¤¿¨Çð³¬½ø»¯ -->
+    <item component="ComponentInfo{com.youdong.guaji_pok_pkqcjh.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðÃÈÃÈßÕ / Æ¤¿¨ÇðÃÈÃÈßÕ -->
+    <item component="ComponentInfo{com.chenhuo.guaji_pok_pkqmmd.uc/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðÃÈÃÈßÕ / Æ¤¿¨ÇðÃÈÃÈßÕ -->
+    <item component="ComponentInfo{com.tencent.tmgp.pkqmmd/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðPKÊýÂëÊÞ / Æ¤¿¨ÇðPKÊýÂëÊÞ -->
+    <item component="ComponentInfo{com.sy.pikaqiu.guopan/com.moqikaka.sdk.MainActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðÕ½¼Ç / Æ¤¿¨ÇðÕ½¼Ç -->
+    <item component="ComponentInfo{com.dalan.pkqzj.wdj/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðÕ½¼Ç / Æ¤¿¨ÇðÕ½¼Ç -->
+    <item component="ComponentInfo{com.dalan.pkqzj.uc/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- Æ¤¿¨ÇðÕ½¼Ç / Æ¤¿¨ÇðÕ½¼Ç -->
+    <item component="ComponentInfo{com.dalan.pkqzj.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- Pocket Master GO / Pocket Master GO -->
+    <item component="ComponentInfo{com.okofun.pocketdinogo/com.unity3d.player.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ÆáºÚµÄ÷ÈÓ° / ÆáºÚµÄ÷ÈÓ° -->
+    <item component="ComponentInfo{hisoftking.game.magicalbaby.uc/hisoftking.game.magicalbaby.update.SdkInitAndSplashActivity}" drawable="ccat" />
+    <!-- Ææ¼£±¦±´ / Ææ¼£±¦±´ -->
+    <item component="ComponentInfo{com.tencent.tmgp.qjbb/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- Çð±È¿¨ìÅÍ¼ / Çð±È¿¨ìÅÍ¼ -->
+    <item component="ComponentInfo{biz.rgmgph.jthmkq.juptvkng/biz.rgmgph.jthmkq.juptvkng.b}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ´ó°®¸ÉµÉÑÛÖ®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.qm.gdy.dxy/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È«ÃñÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.smaa.xinpkq1/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{com.tencent.tmgp.yinhan.crimoonpm4/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{net.crimoon.pm.a360/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{net.crimoon.pm.a4399/com.crimoon.common.ProjectHomePage}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{net.crimoon.pmdk/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{net.crimoon.pm.huawei/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / ÈÈÑª¾«ÁéÍõ -->
+    <item component="ComponentInfo{net.crimoon.pm.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.guopan/com.crimoon.common.SplashActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.sma.py/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{fengei.tengxun.qbbkqkdb/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.ewan2/cn.ewan.supersdk.activity.SplashActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.uc/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.tencent.tmgp.crimoonpm3/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.kdyg/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{uzs.xtyg.fvm.bgvh/com.crimoon.common.SplashActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.sijiu.kdyglm.baidu/com.sjiu.rhh5.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.tencent.tmgp.kdyggt/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.trenddna.uc/com.ninegame.sdk.unity.UnityUcSdk}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.duole.koudai.hcj/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.a91/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.lytx/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.sma1/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.wdj/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.fg.qbbkq/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð / È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{net.crimoon.pm.appchina/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð ×êÊ¯»ñµÃÍ¾¾¶»ã×Ü / È¥°ÉÆ¤¿¨Çð ×êÊ¯»ñµÃÍ¾¾¶»ã×Ü -->
+    <item component="ComponentInfo{me.rgmgpujh.hnkjju.puvtns/me.rgmgpujh.hnkjju.puvtns.a}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð±¦µä / È¥°ÉÆ¤¿¨Çð±¦µä -->
+    <item component="ComponentInfo{com.wanke.qbpkq/com.xyou.gamestrategy.activity.StartUpActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð´ú³ä / È¥°ÉÆ¤¿¨Çð´ú³ä -->
+    <item component="ComponentInfo{cn.jugame.assiatant.ALL_qbpkq_2/cn.jugame.assistant.activity.SplashActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð¹¥ÂÔ / È¥°ÉÆ¤¿¨Çð¹¥ÂÔ -->
+    <item component="ComponentInfo{com.sixgame.gametips.qubabikaqiu/com.sixgame.gametips.conpoment.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð¹¥ÂÔºÐ×Ó / È¥°ÉÆ¤¿¨Çð¹¥ÂÔºÐ×Ó -->
+    <item component="ComponentInfo{com.hiapk.qbpkq/com.bodong.mobilegame.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨Çð»¶ÀÖ¶¯Ì¬±ÚÖ½ / È¥°ÉÆ¤¿¨Çð»¶ÀÖ¶¯Ì¬±ÚÖ½ -->
+    <item component="ComponentInfo{net.pika.papperdr/com.br.livewallpaper.LaunchActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðJJ¼ÓËÙÆ÷ / È¥°ÉÆ¤¿¨ÇðJJ¼ÓËÙÆ÷ -->
+    <item component="ComponentInfo{me.jjgear.pikachu/me.jjgear.pikachu.page.MainPage}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÀñ°ü¹¥ÂÔÖúÊÖ / È¥°ÉÆ¤¿¨ÇðÀñ°ü¹¥ÂÔÖúÊÖ -->
+    <item component="ComponentInfo{com.qbpkqlbbb/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÄ§·½¹¥ÂÔ / Ä§·½¹¥ÂÔ for È¥°ÉÆ¤¿¨Çð -->
+    <item component="ComponentInfo{qubapikaqiu.mofang.com/com.mofang.raiders.ui.activity.WelcomeActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðOL / È¥°ÉÆ¤¿¨ÇðOL -->
+    <item component="ComponentInfo{net.crimoon.pm.kqp/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðËÄÕÛ³äÖµ / È¥°ÉÆ¤¿¨ÇðËÄÕÛ³äÖµ -->
+    <item component="ComponentInfo{com.qbpkqszcz/com.shuyou.sy07073.blr.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÍËÓÎÖúÊÖ / È¥°ÉÆ¤¿¨ÇðÍËÓÎÖúÊÖ -->
+    <item component="ComponentInfo{cn.jugame.longtail.a01266/cn.jugame.longtail.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÍËÓÎÖúÊÖ / È¥°ÉÆ¤¿¨ÇðÍËÓÎÖúÊÖ -->
+    <item component="ComponentInfo{cn.jugame.longtail.a01266jf/cn.jugame.longtail.MainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÍêÃÀ¹¥ÂÔ / È¥°ÉÆ¤¿¨ÇðÍêÃÀ¹¥ÂÔ -->
+    <item component="ComponentInfo{com.gl.qbpkq.gamestrategy/com.appstore.gamestrategy.GSMainActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÕËºÅ½»Ò× / È¥°ÉÆ¤¿¨ÇðÕËºÅ½»Ò× -->
+    <item component="ComponentInfo{cn.jugame.assistant.cw_266/cn.jugame.assistant.activity.SplashActivity}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÖ®ÐÂÊÖ¹¥ÂÔ / È¥°ÉÆ¤¿¨ÇðÖ®ÐÂÊÖ¹¥ÂÔ -->
+    <item component="ComponentInfo{org.rkmkpij.khmjtk.tptvt/org.rkmkpij.khmjtk.tptvt.c}" drawable="ccat" />
+    <!-- È¥°ÉÆ¤¿¨ÇðÖúÊÖ / null -->
+    <item component="ComponentInfo{com.zs.kkp.qbpkq/com.kkp.gameguider.activity.StartPageActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{net.crimoon.pm.sqbb/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{com.funnyhux.myguardian.cmge/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{com.funnyhux.myguardian.dl/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{com.funnyhux.myguardian.yyw/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ -->
+    <item component="ComponentInfo{com.zx.MagicBaby.uc/com.zx.MagicBaby.uc.MagicBaby}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ / ÉñÆæ±¦±´ÂúV°æ -->
+    <item component="ComponentInfo{com.sqbbmvb.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´±¦¿ÉÃÎ / ÉñÆæ±¦±´±¦¿ÉÃÎ -->
+    <item component="ComponentInfo{com.falulu.xc.sqbbbkm.xuanwan/org.cocos2dx.lua.AppActivity}" drawable="ccat" />
+    <!-- ÉñÆæŒšØ´Î•r´ú / ÉñÆæŒšØ´Î•r´ú -->
+    <item component="ComponentInfo{catch.them.al/catch.them.al.AppEntry}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÂÌ±¦Ê¯ / ÉñÆæ±¦±´ÂÌ±¦Ê¯ -->
+    <item component="ComponentInfo{com.junhai.PKQ.wdj/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÂÌ±¦Ê¯ / ÉñÆæ±¦±´ÂÌ±¦Ê¯ -->
+    <item component="ComponentInfo{com.junhai.PKQ.yyh/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÂÌ±¦Ê¯ / ÉñÆæ±¦±´ÂÌ±¦Ê¯ -->
+    <item component="ComponentInfo{com.junhai.PKQ.cgamex.bazhang/com.cgamex.usdk.api.SplashActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÂúV°æ / ÉñÆæ±¦±´ÂúV°æ -->
+    <item component="ComponentInfo{com.sqbbmvb.game456.bazhang/com.vqs456.sdk.WelcomeActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Max / ÉñÆæ±¦±´Max -->
+    <item component="ComponentInfo{com.kdyjwy.guandu/com.yueyugame.kdyglm.SplashActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´OL / ÉñÆæ±¦±´OL -->
+    <item component="ComponentInfo{com.gg.pokemon.zimon/com.gg.game.MainMenuActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÏûÃðÐÇ / ÉñÆæ±¦±´ÏûÃðÐÇ -->
+    <item component="ComponentInfo{com.zhijianchangdong.sqbbxmx/cn.cmgame.billing.api.GameOpenActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÏûÃðÐÇ / ÉñÆæ±¦±´ÏûÃðÐÇ -->
+    <item component="ComponentInfo{com.zhijianchangdong.sqbbxmxmod/com.qiqiersan.sdk.QqesShellActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´ÏûÃðÐÇ / ÉñÆæ±¦±´ÏûÃðÐÇ -->
+    <item component="ComponentInfo{com.zhijianchangdong.sqbbxmx.baidu/com.zhijianchangdong.sqbbxmx.main.AndroidLauncher}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´XY / ÉñÆæ±¦±´XY -->
+    <item component="ComponentInfo{com.junhai.sqbbxy.cgamex.bazhang/com.cgamex.usdk.api.SplashActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 / null -->
+    <item component="ComponentInfo{com.maopaoke.mpk6002838.sms/com.maopaoke.hsy.QActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 / ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 -->
+    <item component="ComponentInfo{com.ty.baby/com.tybaby.client.logoActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 / ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 -->
+    <item component="ComponentInfo{com.sty.baby.waifang.dangle/com.tybaby.client.logoActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 / ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 -->
+    <item component="ComponentInfo{com.sty.baby.waifang.wf360/com.tybaby.client.logoActivity}" drawable="ccat" />
+    <!-- ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 / ÉñÆæ±¦±´Ö®¾«ÁéÕ½¼Í2 -->
+    <item component="ComponentInfo{com.sty.baby.waifang.yingyonghui/com.tybaby.client.logoActivity}" drawable="ccat" />
+    <!-- ÉñÆæ´óÂÒ¶· / null -->
+    <item component="ComponentInfo{com.junhai.sqdld.aligames/com.junhai.h5shellsdk.H5GameActivity}" drawable="ccat" />
+    <!-- ÉñÆæ´óÂÒ¶· / null -->
+    <item component="ComponentInfo{com.junhai.sqdld.baidu/com.junhai.h5shellsdk.H5GameActivity}" drawable="ccat" />
+    <!-- ÉñÆæ´óÂÒ¶· / null -->
+    <item component="ComponentInfo{com.junhai.sqdld.dangle/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ÉñÆæ´óÂÒ¶· / null -->
+    <item component="ComponentInfo{com.junhai.sqdld.qihu/com.stub.stub01.Stub01}" drawable="ccat" />
+    <!-- ÉñÆæ´óÂÒ¶· / null -->
+    <item component="ComponentInfo{com.wucai.ra/com.junhai.h5shellsdk.H5GameActivity}" drawable="ccat" />
+    <!-- ÉñÆæÆ¤¿¨Çð / ÉñÆæÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.tencent.tmgp.cwxjlcy/com.crimoon.common.ProjectTK}" drawable="ccat" />
+    <!-- ÉñÆæÐ¡¾«Áé / ÉñÆæÐ¡¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.com.winnergame.pokemon.weilan/org.weilan.poem}" drawable="ccat" />
+    <!-- ÉñÆæÐ¡¾«Áé¼ÓÇ¿°æ / ÉñÆæÐ¡¾«Áé¼ÓÇ¿°æ -->
+    <item component="ComponentInfo{com.winnergame.pokemon.ad.guopan/org.weilan.poem}" drawable="ccat" />
+    <!-- ÉñÆæÓ–¾šŽŸ / ÉñÆæÓ–¾šŽŸ -->
+    <item component="ComponentInfo{com.hongzhong.sqxls/com.hongzhong.sqxls.AppEntry}" drawable="ccat" />
+    <!-- ÌìÌì±¼ÅÜ´ò¹ÖÊÞ / ÌìÌì±¼ÅÜ´ò¹ÖÊÞ -->
+    <item component="ComponentInfo{com.syc.ttbpdgs.aligames/com.hele.game.taptapfun.SplashActivity}" drawable="ccat" />
+    <!-- ÌìÌì±¼ÅÜ´ò¹ÖÊÞ / ÌìÌì±¼ÅÜ´ò¹ÖÊÞ -->
+    <item component="ComponentInfo{com.syc.ttbpdgs.guopan/com.hele.game.taptapfun.SplashActivity}" drawable="ccat" />
+    <!-- ÌìÌì±¼ÅÜ´ò¹ÖÊÞ / ÌìÌì±¼ÅÜ´ò¹ÖÊÞ -->
+    <item component="ComponentInfo{com.syc.ttbpdgs.huawei/com.hele.game.taptapfun.SplashActivity}" drawable="ccat" />
+    <!-- ÌìÌìÆ¤¿¨Çð / ÌìÌìÆ¤¿¨Çð -->
+    <item component="ComponentInfo{com.moongame.pkq.baidu/com.yueyou.common.ProjectMB}" drawable="ccat" />
+    <!-- ÌìÌìÆ¤¿¨Çð / ÌìÌìÆ¤¿¨Çð -->
+    <item component="ComponentInfo{cn.atme.sns.ttpkqcn.pps/cn.atme.sns.ttpkqcn.pps.Pokemon}" drawable="ccat" />
+    <!-- ÌìÌìÆ¤¿¨Çð / ÌìÌìÆ¤¿¨Çð -->
+    <item component="ComponentInfo{cn.atme.sns.ttpkqcn.uc/cn.atme.sns.ttpkqcn.uc.Pokemon}" drawable="ccat" />
+    <!-- ÌìÌìÆ¤¿¨Çð / ÌìÌìÆ¤¿¨Çð -->
+    <item component="ComponentInfo{cn.atme.sns.ttpkqcn.dl/cn.atme.sns.ttpkqcn.dl.Pokemon}" drawable="ccat" />
+    <!-- ÌìÌìÆ¤¿¨Çð / ÌìÌìÆ¤¿¨Çð -->
+    <item component="ComponentInfo{cn.atme.sns.ttpkqcn.huawei/cn.atme.sns.ttpkqcn.huawei.Pokemon}" drawable="ccat" />
+    <!-- ÊØ»¤Ð¡¾«Áé / ÊØ»¤Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.cmcx.shxjl.aligames/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ÊØ»¤Ð¡¾«Áé / ÊØ»¤Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.cmcx.shxjl.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ÊØ»¤Ð¡¾«Áé / ÊØ»¤Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.cmcx.shxjl.qihoo/com.duole.game.SplashActivity}" drawable="ccat" />
+    <!-- ÊØ»¤Ð¡¾«Áé / ÊØ»¤Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.cmcx.shxjl.guopan/com.nuclear.gjwow.platform.ppstw.SplashActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.uc/com.snowfish.cn.ganga.helper.SFOnlineLaunchActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.yy/com.anysdk.framework.unity.AnySDKActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.downjoy/com.anysdk.framework.SplashActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.baidu/com.anysdk.framework.unity.AnySDKActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.qihu/com.anysdk.framework.unity.AnySDKActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.uc/com.unity3d.player.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.wdj/com.snow.cn.sdk.SplashActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð / ÎÒ°®Æ¤¿¨Çð -->
+    <item component="ComponentInfo{com.zgame.pokemon3dfl.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ÎÒ°®Æ¤¿¨Çð-¸´¿Ì3D / ÎÒ°®Æ¤¿¨Çð-¸´¿Ì3D -->
+    <item component="ComponentInfo{com.zgame.guopan/com.snow.cn.sdk.SplashActivity}" drawable="ccat" />
+    <!-- Ð¡¾«Áé´ó×÷Õ½ / Ð¡¾«Áé´ó×÷Õ½ -->
+    <item component="ComponentInfo{com.qhooplay.xjldzz.aligames/com.duole.cwdld.SDKChongwu}" drawable="ccat" />
+    <!-- Ð¡¾«Áé´ó×÷Õ½ / Ð¡¾«Áé´ó×÷Õ½ -->
+    <item component="ComponentInfo{com.tencent.tmgp.xjldzz1/com.duole.cwdld.SDKChongwu}" drawable="ccat" />
+    <!-- Ð¡¾«Áé´ó×÷Õ½ / Ð¡¾«Áé´ó×÷Õ½ -->
+    <item component="ComponentInfo{com.qhooplay.xjldzz.huawei/com.duole.cwdld.SDKChongwu}" drawable="ccat" />
+    <!-- Ð¡¾«Áé´ó×÷Õ½ / Ð¡¾«Áé´ó×÷Õ½ -->
+    <item component="ComponentInfo{com.yuntiankong.xjldzz.m4399/com.platform.sdk.MySplashActivity}" drawable="ccat" />
+    <!-- Ð¡¾«Áé´ó×÷Õ½ / Ð¡¾«Áé´ó×÷Õ½ -->
+    <item component="ComponentInfo{com.yuntiankong.xjldzz.guopan/com.platform.sdk.MySplashActivity}" drawable="ccat" />
+    <!-- ÏûÃðÐÇÐÇ3-¿Ú´üÑý¹Ö / ÏûÃðÐÇÐÇ3-¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.mars.kong/com.mars.kong.kong}" drawable="ccat" />
+    <!-- Ð¡Ð¡¾«Áé / Ð¡Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.xxjnyyb/com.SDK921.main.MainActivity}" drawable="ccat" />
+    <!-- Ð¡Ð¡¾«Áé / Ð¡Ð¡¾«Áé -->
+    <item component="ComponentInfo{com.xxjl.hw.guopan/org.cocos2dx.cpp.SplashActivity}" drawable="ccat" />
+    <!-- ÐÂ¿Ú´üÑý¹Ö / ÐÂ¿Ú´üÑý¹Ö -->
+    <item component="ComponentInfo{com.dalan.xkdyg.qihu/prj.chameleon.channelapi.SplashScreenActivity}" drawable="ccat" />
+    <!-- ÐÂ¿Ú´üÑý¹Ö3D / ÐÂ¿Ú´üÑý¹Ö3D -->
+    <item component="ComponentInfo{com.junhai.PKQ.cgamex.yyh/net.sifuba.sdk.activity.SplashActivity}" drawable="ccat" />
+    <!-- Ñý¹Ö±¦¿ÉÃÈ / Ñý¹Ö±¦¿ÉÃÈ -->
+    <item component="ComponentInfo{com.tencent.tmgp.joli.ygbkm/com.joli.webpageapp.MainActivity}" drawable="ccat" />
+    <!-- Ñý¹Ö±¦¿ÉÃÈ / Ñý¹Ö±¦¿ÉÃÈ -->
+    <item component="ComponentInfo{com.tencent.tmgp.joli.ygbkm/com.cc25.joli.MainActivity}" drawable="ccat" />
+    <!-- Ñý¹Ö±¦¿ÉÃÈ / Ñý¹Ö±¦¿ÉÃÈ -->
+    <item component="ComponentInfo{com.easygametime.ezbkm.huawei/com.easygametime.ezbkm.activity.MainActivity}" drawable="ccat" />
+    <!-- Ñý¹Ö±¦¿ÉÃÈ / null -->
+    <item component="ComponentInfo{com.sj4399.h5box.ygbkm/com.h4399box.gamecontainer.MainActivity}" drawable="ccat" />
+    <!-- Ó¢ÐÛÑµÁ·Ê¦ / Ó¢ÐÛÑµÁ·Ê¦ -->
+    <item component="ComponentInfo{com.qmhygame.yxxls.aligames/com.game.fshx.GameEntryActivity}" drawable="ccat" />
+    <!-- Ó¢ÐÛÑµÁ·Ê¦ / Ó¢ÐÛÑµÁ·Ê¦ -->
+    <item component="ComponentInfo{com.qmhy.yxxls.HUAWEI/com.game.fshx.SplashActivity}" drawable="ccat" />
+    <!-- Õ½¶·°É£¡¾«Áé / Õ½¶·°É£¡¾«Áé -->
+    <item component="ComponentInfo{com.zdbjl.aligames/org.cocos2dx.cpp.AppActivity}" drawable="ccat" />
+    <!-- Õ½¶·°É£¡¾«Áé / Õ½¶·°É£¡¾«Áé -->
+    <item component="ComponentInfo{com.zdbjl.guopan/com.flamingo.sdk.view.GPSplashActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.szmcym.Pokemon.huawei/com.DigitalMon.mi.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.szmcym.Pokemon.yyh/com.DigitalMon.mi.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.tencent.tmgp.szmcym.Pokemon/com.DigitalMon.mi.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.szmcym.Pokemon.aligames/com.DigitalMon.mi.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.szmcym.Pokemon.dl/com.downjoy.activity.SdkLoadActivity}" drawable="ccat" />
+    <!-- ×©Ê¯¾«Áé / ×©Ê¯¾«Áé -->
+    <item component="ComponentInfo{com.szmcym.Pokemon.guopan/com.DigitalMon.mi.UnityPlayerActivity}" drawable="ccat" />
+    <!-- ×îŠŒ™ÎïßM»¯ / ×îŠŒ™ÎïßM»¯ -->
+    <item component="ComponentInfo{com.evolution.coco.tw/com.houge.com.main.Test}" drawable="ccat" />
